@@ -1,0 +1,9 @@
+D:\Renata\devWarsztaty\warsztaty\bin\Debug\netcoreapp1.1\warsztaty.deps.json
+D:\Renata\devWarsztaty\warsztaty\bin\Debug\netcoreapp1.1\warsztaty.runtimeconfig.json
+D:\Renata\devWarsztaty\warsztaty\bin\Debug\netcoreapp1.1\warsztaty.runtimeconfig.dev.json
+D:\Renata\devWarsztaty\warsztaty\bin\Debug\netcoreapp1.1\warsztaty.dll
+D:\Renata\devWarsztaty\warsztaty\bin\Debug\netcoreapp1.1\warsztaty.pdb
+D:\Renata\devWarsztaty\warsztaty\obj\Debug\netcoreapp1.1\warsztaty.csprojResolveAssemblyReference.cache
+D:\Renata\devWarsztaty\warsztaty\obj\Debug\netcoreapp1.1\warsztaty.AssemblyInfo.cs
+D:\Renata\devWarsztaty\warsztaty\obj\Debug\netcoreapp1.1\warsztaty.dll
+D:\Renata\devWarsztaty\warsztaty\obj\Debug\netcoreapp1.1\warsztaty.pdb
